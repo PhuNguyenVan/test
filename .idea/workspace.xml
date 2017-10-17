@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f902c916-4b25-478a-8895-469f74d7ce56" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="class-wc-campaign-data-store.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campaign-data-store.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="47" column="64" lean-forward="true" selection-start-line="47" selection-start-column="64" selection-end-line="47" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wc-legacy-campaign.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/legacy/class-wc-legacy-campaign.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="34" column="14" lean-forward="false" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wc-campaign-data-store-cpt.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/data-stores/class-wc-campaign-data-store-cpt.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+              <folding>
+                <marker date="1508139369203" expanded="true" signature="11312:11420" ph="SELECT meta_... wp_postmeta" />
+                <marker date="1508139369203" expanded="true" signature="12138:12250" ph="UPDATE wp_po... " />
+                <marker date="1508139369203" expanded="true" signature="12397:12483" ph="SELECT meta_... wp_postmeta" />
+                <marker date="1508139369203" expanded="true" signature="12763:12874" ph="SELECT COUNT... $" />
+                <marker date="1508139369203" expanded="true" signature="13143:13262" ph="SELECT post_... wp_posts" />
+                <marker date="1508139369203" expanded="true" signature="13578:13709" ph="SELECT ID FR... wp_posts" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wc-campaign.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campaign.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="677">
+              <caret line="96" column="46" lean-forward="false" selection-start-line="96" selection-start-column="46" selection-end-line="96" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/wp-db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="668" column="0" lean-forward="false" selection-start-line="668" selection-start-column="0" selection-end-line="668" selection-end-column="0" />
+              <folding>
+                <marker date="1505844691000" expanded="true" signature="24951:24958" ph="..." />
+                <marker date="1505844691000" expanded="true" signature="40385:40392" ph="..." />
+                <marker date="1505844691000" expanded="true" signature="43521:43528" ph="..." />
+                <marker date="1505844691000" expanded="true" signature="56729:56763" ph="UPDATE `${$t... " />
+                <marker date="1505844691000" expanded="true" signature="58718:58745" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post-new.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="516">
+              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wc-campaign.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/wc-campaign.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="72" column="43" lean-forward="true" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit-form-advanced.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/edit-form-advanced.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="694" column="0" lean-forward="false" selection-start-line="694" selection-start-column="0" selection-end-line="694" selection-end-column="0" />
+              <folding>
+                <marker date="1508150662710" expanded="true" signature="13719:13726" ph="—" />
+                <marker date="1508150662710" expanded="true" signature="13784:13791" ph="..." />
+                <marker date="1508150662710" expanded="true" signature="13915:13922" ph="—" />
+                <marker date="1508150662710" expanded="true" signature="15245:15252" ph="..." />
+                <marker date="1508150662710" expanded="true" signature="20040:20047" ph="—" />
+                <marker date="1508150662710" expanded="true" signature="20824:20831" ph="—" />
+                <marker date="1508150662710" expanded="true" signature="21482:21489" ph="—" />
+                <marker date="1508150662710" expanded="true" signature="22011:22018" ph="—" />
+                <marker date="1508150662710" expanded="true" signature="22078:22085" ph="..." />
+                <marker date="1508150662710" expanded="true" signature="22191:22198" ph="..." />
+                <marker date="1508150662710" expanded="true" signature="22352:22359" ph="—" />
+                <marker date="1508150662710" expanded="true" signature="22755:22762" ph="—" />
+                <marker date="1508150662710" expanded="true" signature="22837:22844" ph="..." />
+                <marker date="1508150662710" expanded="true" signature="22849:22856" ph="..." />
+                <marker date="1508150662710" expanded="true" signature="22871:22878" ph="..." />
+                <marker date="1508150662710" expanded="true" signature="22888:22895" ph="..." />
+                <marker date="1508150662710" expanded="true" signature="22900:22907" ph="..." />
+                <marker date="1508150662710" expanded="true" signature="22913:22920" ph="..." />
+                <marker date="1508150662710" expanded="true" signature="23049:23056" ph="—" />
+                <marker date="1508150662710" expanded="true" signature="23186:23193" ph="..." />
+                <marker date="1508150662710" expanded="true" signature="23278:23285" ph="—" />
+                <marker date="1508150662710" expanded="true" signature="24482:24489" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/includes/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="995" column="25" lean-forward="false" selection-start-line="995" selection-start-column="11" selection-end-line="995" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wc-admin-meta-boxes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-meta-boxes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="133" column="109" lean-forward="false" selection-start-line="133" selection-start-column="86" selection-end-line="133" selection-end-column="109" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wc-meta-box-coupon-data.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="340" column="76" lean-forward="false" selection-start-line="340" selection-start-column="76" selection-end-line="340" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html-variation-admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-variation-admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2346">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1506321130190" expanded="true" signature="7694:8748" ph="..." />
+                <marker date="1506321130190" expanded="true" signature="7736:8220" ph="..." />
+                <marker date="1506321130190" expanded="true" signature="8261:8736" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html-order-refund.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-order-refund.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html-order-shipping.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-order-shipping.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wc-campaign-admin-meta-boxes.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campaign-admin-meta-boxes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wc-webhook.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-webhook.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5726">
+              <caret line="607" column="36" lean-forward="false" selection-start-line="607" selection-start-column="21" selection-end-line="607" selection-end-column="36" />
+              <folding>
+                <marker date="1506321135087" expanded="true" signature="14712:14817" ph="SELECT comme... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wc-ajax.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-ajax.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="1658" column="67" lean-forward="true" selection-start-line="1658" selection-start-column="67" selection-end-line="1658" selection-end-column="67" />
+              <folding>
+                <marker date="1506321133680" expanded="true" signature="41678:41787" ph="SELECT ID, m... $" />
+                <marker date="1506321133680" expanded="true" signature="70828:70921" ph="SELECT metho... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vars.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/vars.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.wp-scripts.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-scripts.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="282" column="0" lean-forward="false" selection-start-line="282" selection-start-column="0" selection-end-line="282" selection-end-column="0" />
+              <folding>
+                <marker date="1476821131000" expanded="true" signature="3529:3533" ph="&lt;" />
+                <marker date="1476821131000" expanded="true" signature="3539:3543" ph="&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.wp-dependencies.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/class.wp-dependencies.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="303" column="0" lean-forward="false" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="473" column="0" lean-forward="false" selection-start-line="473" selection-start-column="0" selection-end-line="473" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/includes/post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="583">
+              <caret line="662" column="0" lean-forward="false" selection-start-line="662" selection-start-column="0" selection-end-line="662" selection-end-column="0" />
+              <folding>
+                <marker date="1492124983000" expanded="true" signature="16780:16845" ph="SELECT ID, p... wp_posts" />
+                <marker date="1492124983000" expanded="true" signature="23002:23039" ph="SELECT ID FR... wp_posts" />
+                <marker date="1492124983000" expanded="true" signature="27054:27135" ph="SELECT meta_... wp_postmeta" />
+                <marker date="1492124983000" expanded="true" signature="27616:27733" ph="SELECT meta_... wp_postmeta" />
+                <marker date="1492124983000" expanded="true" signature="33525:33594" ph="SELECT DISTI... wp_posts" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="1562" column="0" lean-forward="false" selection-start-line="1562" selection-start-column="0" selection-end-line="1562" selection-end-column="0" />
+              <folding>
+                <marker date="1492870662000" expanded="true" signature="57523:57539" ph="Insert into post... " />
+                <marker date="1492870662000" expanded="true" signature="57549:57565" ph="Insert into page... " />
+                <marker date="1492870662000" expanded="true" signature="83341:83425" ph="SELECT post_... $" />
+                <marker date="1492870662000" expanded="true" signature="85361:85512" ph="SELECT post_... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="85682:85775" ph="SELECT COUNT... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="91503:91543" ph="SELECT * FRO... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="92950:93018" ph="SELECT * FRO... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="93343:93420" ph="SELECT ID FR... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="93872:93937" ph="SELECT comme... wp_comments" />
+                <marker date="1492870662000" expanded="true" signature="94130:94184" ph="SELECT meta_... wp_postmeta" />
+                <marker date="1492870662000" expanded="true" signature="98772:98855" ph="SELECT comme... wp_comments" />
+                <marker date="1492870662000" expanded="true" signature="100777:100860" ph="UPDATE wp_co... " />
+                <marker date="1492870662000" expanded="true" signature="121241:121282" ph="SELECT ID FR... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="132781:132857" ph="SELECT post_... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="133930:134065" ph="SELECT post_... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="135183:135278" ph="SELECT post_... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="149433:149485" ph="SELECT ID FR... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="152069:152209" ph="SELECT ID, p... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="154026:154124" ph="SELECT ID FR... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="154185:154262" ph="SELECT ID FR... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="166353:166411" ph="SELECT * FRO... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="170821:170861" ph="SELECT * FRO... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="171979:172044" ph="SELECT comme... wp_comments" />
+                <marker date="1492870662000" expanded="true" signature="172238:172292" ph="SELECT meta_... wp_postmeta" />
+                <marker date="1492870662000" expanded="true" signature="172863:172982" ph="SELECT meta_... wp_postmeta" />
+                <marker date="1492870662000" expanded="true" signature="195141:195286" ph="SELECT post_... " />
+                <marker date="1492870662000" expanded="true" signature="195342:195483" ph="SELECT post_... " />
+                <marker date="1492870662000" expanded="true" signature="195579:195773" ph="SELECT DATE_... " />
+                <marker date="1492870662000" expanded="true" signature="206547:206657" ph="SELECT ID FR... wp_posts" />
+                <marker date="1492870662000" expanded="true" signature="209178:209234" ph="SELECT wp_po... wp_posts" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="3603" column="41" lean-forward="false" selection-start-line="3603" selection-start-column="41" selection-end-line="3603" selection-end-column="41" />
+              <folding>
+                <marker date="1491777883000" expanded="true" signature="17236:17340" ph="SELECT meta_... wp_postmeta" />
+                <marker date="1491777883000" expanded="true" signature="18399:18503" ph="SELECT post_... wp_postmeta" />
+                <marker date="1491777883000" expanded="true" signature="38380:38449" ph="SELECT optio... wp_options" />
+                <marker date="1491777883000" expanded="true" signature="147101:147197" ph="SELECT post_... wp_postmeta" />
+                <marker date="1491777883000" expanded="true" signature="147660:147762" ph="SELECT comme... wp_commentmeta" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wp-list-util.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/class-wp-list-util.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="load.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/load.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="673" column="6" lean-forward="true" selection-start-line="673" selection-start-column="6" selection-end-line="673" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cache.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/cache.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="754" column="0" lean-forward="false" selection-start-line="754" selection-start-column="0" selection-end-line="754" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="option.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/option.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+              <folding>
+                <marker date="1494396643000" expanded="true" signature="3082:3152" ph="SELECT optio... wp_options" />
+                <marker date="1494396643000" expanded="true" signature="3884:3954" ph="SELECT optio... wp_options" />
+                <marker date="1494396643000" expanded="true" signature="6150:6225" ph="SELECT optio... wp_options" />
+                <marker date="1494396643000" expanded="true" signature="6272:6310" ph="SELECT optio... wp_options" />
+                <marker date="1494396643000" expanded="true" signature="7492:7594" ph="SELECT meta_... wp_sitemeta" />
+                <marker date="1494396643000" expanded="true" signature="15427:15655" ph="INSERT INTO `wp_options`... " />
+                <marker date="1494396643000" expanded="true" signature="17471:17529" ph="SELECT autol... wp_options" />
+                <marker date="1494396643000" expanded="true" signature="37078:37153" ph="SELECT meta_... wp_sitemeta" />
+                <marker date="1494396643000" expanded="true" signature="43227:43301" ph="SELECT meta_... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wc-admin-post-types.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-post-types.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="1796" column="5" lean-forward="true" selection-start-line="1790" selection-start-column="4" selection-end-line="1796" selection-end-column="5" />
+              <folding>
+                <marker date="1507789209113" expanded="true" signature="19515:19522" ph="–" />
+                <marker date="1507789209113" expanded="true" signature="21014:21021" ph="–" />
+                <marker date="1507789209113" expanded="true" signature="21178:21185" ph="–" />
+                <marker date="1507789209113" expanded="true" signature="25700:25707" ph="–" />
+                <marker date="1507789209113" expanded="true" signature="27658:27671" ph="..." />
+                <marker date="1507789209113" expanded="true" signature="28199:28206" ph="–" />
+                <marker date="1507789209113" expanded="true" signature="61233:61397" ph="SELECT ID, p... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>woocommerce_loaded</find>
+      <find>ABSPATH</find>
+      <find>class-wc-coupon</find>
+      <find>class-wc-coupo</find>
+      <find>core</find>
+      <find>coupon.p</find>
+      <find>coupon.php</find>
+      <find>coupon</find>
+      <find>lega</find>
+      <find>WC_ABSPATH</find>
+      <find>include_once</find>
+      <find>$the_coupon</find>
+      <find>WC_Coupon_Data_Store_CPT</find>
+      <find>$coupon</find>
+      <find>woocommerce_get_shop_coupon_data</find>
+      <find>woocommerce_coupon_get_</find>
+      <find>woocommerce_get_coupon_id_from_code</find>
+      <find>WC_Data_Store_WP</find>
+      <find>$data</find>
+      <find>wc_get_coupon_id_by_code</find>
+      <find>data-s</find>
+      <find>woocommerce-coupon-description</find>
+      <find>edit_form_after_title</find>
+      <find>woocommerce-coupon-data</find>
+      <find>add_meta_boxes</find>
+      <find>WC_Admin_Meta_Boxes</find>
+      <find>woocommerce_process_shop_coupon_meta</find>
+      <find>die</find>
+      <find>$wp_meta_boxes</find>
+      <find>WC_Meta_Box_Coupon_Data</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-includes/admin-bar.php" />
+        <option value="$PROJECT_DIR$/wp-includes/default-filters.php" />
+        <option value="$PROJECT_DIR$/wp-includes/pluggable.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php" />
+        <option value="$PROJECT_DIR$/wp-includes/cache.php" />
+        <option value="$PROJECT_DIR$/wp-includes/class-wp-user.php" />
+        <option value="$PROJECT_DIR$/wp-login.php" />
+        <option value="$PROJECT_DIR$/wp-admin/menu.php" />
+        <option value="$PROJECT_DIR$/wp-admin/includes/menu.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campain/wc-campain.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-cancel-order/wc-cancel-order.php" />
+        <option value="$PROJECT_DIR$/wp-includes/wp-db.php" />
+        <option value="$PROJECT_DIR$/wp-admin/edit.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-post-types.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/legacy/class-wc-legacy-coupon.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campain.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campaign.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/wc-campaign-functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/data-stores/class-wc-coupon-data-store-cpt.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/interfaces/class-wc-coupon-data-store-interface.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/woocommerce.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/data-stores/class-wc-campaign-data-store-wp.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/interfaces/class-wc-object-data-store-interface.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/interfaces/class-wc-object-campaign-data-store-interface.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campaign-autoloader.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campaign-data-store.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/data-stores/class-wc-campaign-data-store-cpt.php" />
+        <option value="$PROJECT_DIR$/wp-admin/post-new.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/wc-campaign.php" />
+        <option value="$PROJECT_DIR$/wp-admin/edit-form-advanced.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campaign-admin-meta-boxes.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" notify_if_session_was_finished_without_being_paused="false" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="10.1.20.172" id="ac67e576-44e7-4983-8482-90b363403fd0" name="10.1.20.172" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/wp-content/plugins/akismet" remote-root="D:/Project/Cleanex/Source/cleanex/webroot" />
+        </path_mappings>
+      </server>
+      <server host="ec-sbca.local" id="b819de05-c3c1-45eb-b014-2c488a27829d" name="ec-sbca.local" />
+      <server host="localhost" id="d79268e9-2fbf-4119-8bab-58479554e9b8" name="localhost" />
+      <server host="sbca.local" id="81cf1965-b527-4c5a-b331-aff8b3830fe3" name="sbca.local" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/wp-content/plugins/akismet" remote-root="D:/Project/SBCA/source/v1/a.sbc-a.jp/html/sayuri-ushio/sys/event" />
+        </path_mappings>
+      </server>
+      <server host="swag-dev.local" id="d6469814-a7ab-4bd7-ad32-b58a4fe88116" name="swag-dev.local" port="82" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/wp-content/plugins/akismet" remote-root="D:/Project/SWAG/Source/swag-1.5/app/webroot" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="D:\Project\SBCA\source\ec-site" selected_validation_type="LOCAL" web_path_to_validation_script="http://ec-sbca.local:80" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="ec-sbca.local" port="9000" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ec-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ec-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ec-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ec-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wc-campaign" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ec-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wc-campaign" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ec-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ec-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ec-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ec-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="meta-boxes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ec-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ec-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="meta-boxes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\SBCA\source\ec-site\wp-content\plugins\wc-campaign\includes" />
+      <recent name="D:\Project\SBCA\source\ec-site\wp-content\plugins\wc-campaign\includes\interfaces" />
+      <recent name="D:\Project\SBCA\source\ec-site\wp-content\plugins\wc-campaign\includes\data-stores" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f902c916-4b25-478a-8895-469f74d7ce56" name="Default" comment="" />
+      <created>1506580963790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506580963790</updated>
+      <workItem from="1506580966148" duration="18352000" />
+      <workItem from="1506919404313" duration="101391000" />
+      <workItem from="1507776653035" duration="27665000" />
+      <workItem from="1507878356856" duration="32999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="180407000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25187567" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="2012" y="92" width="1736" height="866" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24651662" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25187567" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>D:\Project\SBCA\source\ec-site</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/wp-admin/post-new.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/wp-admin/includes/template.php</url>
+          <line>995</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="88" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/interfaces/class-wc-logger-interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/data-stores/class-wc-data-store-wp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/interfaces/class-wc-coupon-data-store-interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="62" lean-forward="false" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-core-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3264">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506321137402" expanded="true" signature="38281:38289" ph="..." />
+            <marker date="1506321137402" expanded="true" signature="42220:42289" ph="SELECT COUNT... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-coupon-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="93" column="50" lean-forward="false" selection-start-line="93" selection-start-column="50" selection-end-line="93" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="20" lean-forward="true" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8517">
+          <caret line="519" column="42" lean-forward="false" selection-start-line="519" selection-start-column="37" selection-end-line="519" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-data-store.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3400">
+          <caret line="200" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/data-stores/class-wc-data-store-wp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2145">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <marker date="1506321135263" expanded="true" signature="1882:2034" ph="SELECT ${{$d... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/interfaces/class-wc-object-data-store-interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/wc-campaign-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="92" column="9" lean-forward="false" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/interfaces/class-wc-campaign-data-store-interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/data-stores/class-wc-campaign-data-store-wp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <marker date="1508138028118" expanded="true" signature="1891:2043" ph="SELECT ${{$d... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/interfaces/class-wc-object-data-store-interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/interfaces/class-wc-object-campaign-data-store-interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="265" column="8" lean-forward="false" selection-start-line="265" selection-start-column="8" selection-end-line="265" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campaign-autoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="96" column="5" lean-forward="true" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/data-stores/class-wc-campaign-data-store-cpt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <folding>
+            <marker date="1508139369203" expanded="true" signature="11312:11420" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1508139369203" expanded="true" signature="12138:12250" ph="UPDATE wp_po... " />
+            <marker date="1508139369203" expanded="true" signature="12397:12483" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1508139369203" expanded="true" signature="12763:12874" ph="SELECT COUNT... $" />
+            <marker date="1508139369203" expanded="true" signature="13143:13262" ph="SELECT post_... wp_posts" />
+            <marker date="1508139369203" expanded="true" signature="13578:13709" ph="SELECT ID FR... wp_posts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campaign-data-store.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="64" lean-forward="true" selection-start-line="47" selection-start-column="64" selection-end-line="47" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/legacy/class-wc-legacy-campaign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="34" column="14" lean-forward="false" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-wp-list-util.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="3603" column="41" lean-forward="false" selection-start-line="3603" selection-start-column="41" selection-end-line="3603" selection-end-column="41" />
+          <folding>
+            <marker date="1491777883000" expanded="true" signature="17236:17340" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1491777883000" expanded="true" signature="18399:18503" ph="SELECT post_... wp_postmeta" />
+            <marker date="1491777883000" expanded="true" signature="38380:38449" ph="SELECT optio... wp_options" />
+            <marker date="1491777883000" expanded="true" signature="147101:147197" ph="SELECT post_... wp_postmeta" />
+            <marker date="1491777883000" expanded="true" signature="147660:147762" ph="SELECT comme... wp_commentmeta" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/wp-db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="668" column="0" lean-forward="false" selection-start-line="668" selection-start-column="0" selection-end-line="668" selection-end-column="0" />
+          <folding>
+            <marker date="1505844691000" expanded="true" signature="24951:24958" ph="..." />
+            <marker date="1505844691000" expanded="true" signature="40385:40392" ph="..." />
+            <marker date="1505844691000" expanded="true" signature="43521:43528" ph="..." />
+            <marker date="1505844691000" expanded="true" signature="56729:56763" ph="UPDATE `${$t... " />
+            <marker date="1505844691000" expanded="true" signature="58718:58745" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="754" column="0" lean-forward="false" selection-start-line="754" selection-start-column="0" selection-end-line="754" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/load.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="673" column="6" lean-forward="true" selection-start-line="673" selection-start-column="6" selection-end-line="673" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="662" column="0" lean-forward="false" selection-start-line="662" selection-start-column="0" selection-end-line="662" selection-end-column="0" />
+          <folding>
+            <marker date="1492124983000" expanded="true" signature="16780:16845" ph="SELECT ID, p... wp_posts" />
+            <marker date="1492124983000" expanded="true" signature="23002:23039" ph="SELECT ID FR... wp_posts" />
+            <marker date="1492124983000" expanded="true" signature="27054:27135" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1492124983000" expanded="true" signature="27616:27733" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1492124983000" expanded="true" signature="33525:33594" ph="SELECT DISTI... wp_posts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="473" column="0" lean-forward="false" selection-start-line="473" selection-start-column="0" selection-end-line="473" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class.wp-dependencies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="303" column="0" lean-forward="false" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/functions.wp-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="282" column="0" lean-forward="false" selection-start-line="282" selection-start-column="0" selection-end-line="282" selection-end-column="0" />
+          <folding>
+            <marker date="1476821131000" expanded="true" signature="3529:3533" ph="&lt;" />
+            <marker date="1476821131000" expanded="true" signature="3539:3543" ph="&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="1562" column="0" lean-forward="false" selection-start-line="1562" selection-start-column="0" selection-end-line="1562" selection-end-column="0" />
+          <folding>
+            <marker date="1492870662000" expanded="true" signature="57523:57539" ph="Insert into post... " />
+            <marker date="1492870662000" expanded="true" signature="57549:57565" ph="Insert into page... " />
+            <marker date="1492870662000" expanded="true" signature="83341:83425" ph="SELECT post_... $" />
+            <marker date="1492870662000" expanded="true" signature="85361:85512" ph="SELECT post_... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="85682:85775" ph="SELECT COUNT... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="91503:91543" ph="SELECT * FRO... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="92950:93018" ph="SELECT * FRO... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="93343:93420" ph="SELECT ID FR... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="93872:93937" ph="SELECT comme... wp_comments" />
+            <marker date="1492870662000" expanded="true" signature="94130:94184" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1492870662000" expanded="true" signature="98772:98855" ph="SELECT comme... wp_comments" />
+            <marker date="1492870662000" expanded="true" signature="100777:100860" ph="UPDATE wp_co... " />
+            <marker date="1492870662000" expanded="true" signature="121241:121282" ph="SELECT ID FR... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="132781:132857" ph="SELECT post_... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="133930:134065" ph="SELECT post_... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="135183:135278" ph="SELECT post_... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="149433:149485" ph="SELECT ID FR... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="152069:152209" ph="SELECT ID, p... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="154026:154124" ph="SELECT ID FR... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="154185:154262" ph="SELECT ID FR... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="166353:166411" ph="SELECT * FRO... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="170821:170861" ph="SELECT * FRO... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="171979:172044" ph="SELECT comme... wp_comments" />
+            <marker date="1492870662000" expanded="true" signature="172238:172292" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1492870662000" expanded="true" signature="172863:172982" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1492870662000" expanded="true" signature="195141:195286" ph="SELECT post_... " />
+            <marker date="1492870662000" expanded="true" signature="195342:195483" ph="SELECT post_... " />
+            <marker date="1492870662000" expanded="true" signature="195579:195773" ph="SELECT DATE_... " />
+            <marker date="1492870662000" expanded="true" signature="206547:206657" ph="SELECT ID FR... wp_posts" />
+            <marker date="1492870662000" expanded="true" signature="209178:209234" ph="SELECT wp_po... wp_posts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/vars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/option.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+          <folding>
+            <marker date="1494396643000" expanded="true" signature="3082:3152" ph="SELECT optio... wp_options" />
+            <marker date="1494396643000" expanded="true" signature="3884:3954" ph="SELECT optio... wp_options" />
+            <marker date="1494396643000" expanded="true" signature="6150:6225" ph="SELECT optio... wp_options" />
+            <marker date="1494396643000" expanded="true" signature="6272:6310" ph="SELECT optio... wp_options" />
+            <marker date="1494396643000" expanded="true" signature="7492:7594" ph="SELECT meta_... wp_sitemeta" />
+            <marker date="1494396643000" expanded="true" signature="15427:15655" ph="INSERT INTO `wp_options`... " />
+            <marker date="1494396643000" expanded="true" signature="17471:17529" ph="SELECT autol... wp_options" />
+            <marker date="1494396643000" expanded="true" signature="37078:37153" ph="SELECT meta_... wp_sitemeta" />
+            <marker date="1494396643000" expanded="true" signature="43227:43301" ph="SELECT meta_... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campaign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="96" column="46" lean-forward="false" selection-start-line="96" selection-start-column="46" selection-end-line="96" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-post-types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="1796" column="5" lean-forward="true" selection-start-line="1790" selection-start-column="4" selection-end-line="1796" selection-end-column="5" />
+          <folding>
+            <marker date="1507789209113" expanded="true" signature="19515:19522" ph="–" />
+            <marker date="1507789209113" expanded="true" signature="21014:21021" ph="–" />
+            <marker date="1507789209113" expanded="true" signature="21178:21185" ph="–" />
+            <marker date="1507789209113" expanded="true" signature="25700:25707" ph="–" />
+            <marker date="1507789209113" expanded="true" signature="27658:27671" ph="..." />
+            <marker date="1507789209113" expanded="true" signature="28199:28206" ph="–" />
+            <marker date="1507789209113" expanded="true" signature="61233:61397" ph="SELECT ID, p... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/wc-campaign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="72" column="43" lean-forward="true" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="1658" column="67" lean-forward="true" selection-start-line="1658" selection-start-column="67" selection-end-line="1658" selection-end-column="67" />
+          <folding>
+            <marker date="1506321133680" expanded="true" signature="41678:41787" ph="SELECT ID, m... $" />
+            <marker date="1506321133680" expanded="true" signature="70828:70921" ph="SELECT metho... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/twenty-seventeen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/twenty-seventeen-rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/twenty-seventeen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-webhook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5726">
+          <caret line="607" column="36" lean-forward="false" selection-start-line="607" selection-start-column="21" selection-end-line="607" selection-end-column="36" />
+          <folding>
+            <marker date="1506321135087" expanded="true" signature="14712:14817" ph="SELECT comme... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/edit-form-advanced.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="694" column="0" lean-forward="false" selection-start-line="694" selection-start-column="0" selection-end-line="694" selection-end-column="0" />
+          <folding>
+            <marker date="1508150662710" expanded="true" signature="13719:13726" ph="—" />
+            <marker date="1508150662710" expanded="true" signature="13784:13791" ph="..." />
+            <marker date="1508150662710" expanded="true" signature="13915:13922" ph="—" />
+            <marker date="1508150662710" expanded="true" signature="15245:15252" ph="..." />
+            <marker date="1508150662710" expanded="true" signature="20040:20047" ph="—" />
+            <marker date="1508150662710" expanded="true" signature="20824:20831" ph="—" />
+            <marker date="1508150662710" expanded="true" signature="21482:21489" ph="—" />
+            <marker date="1508150662710" expanded="true" signature="22011:22018" ph="—" />
+            <marker date="1508150662710" expanded="true" signature="22078:22085" ph="..." />
+            <marker date="1508150662710" expanded="true" signature="22191:22198" ph="..." />
+            <marker date="1508150662710" expanded="true" signature="22352:22359" ph="—" />
+            <marker date="1508150662710" expanded="true" signature="22755:22762" ph="—" />
+            <marker date="1508150662710" expanded="true" signature="22837:22844" ph="..." />
+            <marker date="1508150662710" expanded="true" signature="22849:22856" ph="..." />
+            <marker date="1508150662710" expanded="true" signature="22871:22878" ph="..." />
+            <marker date="1508150662710" expanded="true" signature="22888:22895" ph="..." />
+            <marker date="1508150662710" expanded="true" signature="22900:22907" ph="..." />
+            <marker date="1508150662710" expanded="true" signature="22913:22920" ph="..." />
+            <marker date="1508150662710" expanded="true" signature="23049:23056" ph="—" />
+            <marker date="1508150662710" expanded="true" signature="23186:23193" ph="..." />
+            <marker date="1508150662710" expanded="true" signature="23278:23285" ph="—" />
+            <marker date="1508150662710" expanded="true" signature="24482:24489" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/includes/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="995" column="25" lean-forward="false" selection-start-line="995" selection-start-column="11" selection-end-line="995" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-meta-boxes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="133" column="109" lean-forward="false" selection-start-line="133" selection-start-column="86" selection-end-line="133" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="340" column="76" lean-forward="false" selection-start-line="340" selection-start-column="76" selection-end-line="340" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-variation-admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2346">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506321130190" expanded="true" signature="7694:8748" ph="..." />
+            <marker date="1506321130190" expanded="true" signature="7736:8220" ph="..." />
+            <marker date="1506321130190" expanded="true" signature="8261:8736" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-order-refund.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-advanced.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-attribute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-order-shipping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wc-campaign/includes/class-wc-campaign-admin-meta-boxes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
